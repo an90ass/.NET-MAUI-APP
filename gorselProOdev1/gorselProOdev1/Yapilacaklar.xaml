@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="gorselProOdev1.Yapilacaklar"
+             xmlns:viewmodel ="clr-namespace:gorselProOdev1.ViewModels"
+             Title="Yapilacaklar"
+             Background="#04364A">
+    
+    <ContentPage.BindingContext>
+        <viewmodel:NoteViewModel/>
+    </ContentPage.BindingContext>
+    <ScrollView>
+    <VerticalStackLayout Padding="20"  >
+        <Label Text="Notlar"
+               FontSize="30"
+               TextColor="White"
+               HorizontalOptions="Start"/>
+        <Frame BackgroundColor="#04364A">
+            <VerticalStackLayout Spacing="25">
+
+                <Label
+                FontSize="Small"
+                Text="Not başlığı :"
+                HorizontalOptions="Start"
+                TextColor="White"/>
+                    <Entry 
+                        Placeholder="Not başlığı buraya yazınız.."
+            FontSize="Medium"
+            Text="{Binding NoteBaslik}"
+                    TextColor="White"
+                        />
+                    <Label
+            TextColor="White"
+            FontSize="Small"
+            Text=" Not :"
+            HorizontalOptions="Start"/>
+                    <Editor Text="{Binding NoteTanim}"
+                Placeholder="Notunuz buraya yaziniz.."
+                FontSize="Medium"
+                TextColor="White"
+               
+               
+                            />
+                    <Button  Command="{Binding AddNoteCommand}" Text="Not Ekle" Background="#176B87" TextColor="White" FontSize="Medium"/>
+            </VerticalStackLayout>
+        </Frame>
+
+
+            <ListView ItemsSource="{Binding NotlarCollection}" SelectedItem="{Binding SelectedNot}" Margin="20"  >
+                <ListView.ItemTemplate >
+                    <DataTemplate >
+                        <TextCell Text="{Binding baslik}" Detail="{Binding tanim} " DetailColor="White" TextColor="White"  />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <HorizontalStackLayout Spacing="30" HorizontalOptions="Center" Margin="20">
+            <Button   Command="{Binding RemoveNoteCommand}" Text="Sil" Background="red" TextColor="White" WidthRequest="80" HeightRequest="50"/>
+            <Button  Command="{Binding EditNoteCommand}" Text="Düzenle" Background="green" TextColor="White"  WidthRequest="80" HeightRequest="50"/>
+            </HorizontalStackLayout>
+    </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="gorselProOdev1.RenkSececi"
+             Title="Renk Seçeci" Background="Black"
+              x:Name="bak">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label" x:Key="LabelStyle">
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="FontFamily" Value="serif" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <StackLayout >
+
+            <Frame Margin="20 ,20,20,0" >
+                <StackLayout Background="White" >
+
+                    <Frame CornerRadius="10" Padding="10" Margin="10" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" >
+                        <Label Style="{StaticResource LabelStyle}" Text="Renk Secici" Padding="0" Margin="20,3,0,0" FontSize="30" TextColor="Black" VerticalOptions="Center" HorizontalOptions="Center"/>
+                    </Frame>
+
+
+                    <Label Style="{StaticResource LabelStyle}"  Text="Kirmizi Ton :" TextColor="Red" Margin="100,0" FontSize="20"/>
+                    <Slider  x:Name="redSlider"  MinimumTrackColor="Red" HeightRequest="30" WidthRequest="400" Maximum="100" Minimum="0" HorizontalOptions="Start" Margin="100,0" ThumbColor="Red" ValueChanged="Slider_ValueChanged" />
+                    <Label  Style="{StaticResource LabelStyle}" Text="Yeşil Ton :" TextColor="Green" Margin="100,0" FontSize="20"/>
+                    <Slider  x:Name="greenSlider"  MinimumTrackColor="Green" HeightRequest="30" WidthRequest="400" Maximum="100" Minimum="0" HorizontalOptions="Start" Margin="100,0" ThumbColor="Green" ValueChanged="Slider_ValueChanged" />
+                    <Label Style="{StaticResource LabelStyle}" Text="Mavi Ton :" TextColor="Blue" Margin="100,0" FontSize="20"/>
+                    <Slider  x:Name="blueSlider" MinimumTrackColor="Blue"  HeightRequest="30" WidthRequest="400" Maximum="100" Minimum="0" HorizontalOptions="StartAndExpand" Margin="100,0" ThumbColor="Blue" ValueChanged="Slider_ValueChanged" />
+
+                    <Frame  x:Name="fram_kod_kopya" BindingContext="{x:Reference renkCodeLabel}"  BorderColor="{Binding Path=Text}" CornerRadius="10" Padding="10" Margin="10" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                        <StackLayout  Background="White" Orientation="Horizontal" HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+                            <Label Style="{StaticResource LabelStyle}" Text="Renk kodu : " TextColor="Black" Padding="20" HorizontalOptions="Center" FontSize="30" VerticalOptions="Center"/>
+                            <Label Style="{StaticResource LabelStyle}" x:Name="renkCodeLabel" Text="#000000" HorizontalOptions="Center" FontSize="30" VerticalOptions="Center"/>
+                            <ImageButton Source="koyp2.png" WidthRequest="250" HeightRequest="30" VerticalOptions="Center" Clicked="ImageButton_Clicked"/>
+                        </StackLayout>
+                    </Frame>
+                    <Button  x:Name="btn1" BindingContext="{x:Reference renkCodeLabel}" Background="{Binding Path=Text}" Text="Random" TextColor="White" FontSize="30" WidthRequest="500" HeightRequest="60" Margin="20" Clicked="Button_Clicked"/>
+
+                </StackLayout>
+            </Frame>
+
+            <!-- <Frame Margin="20 ,10,20,0" x:Name="fram_renk" BindingContext="{x:Reference renkCodeLabel}" Background="{Binding Path=Text}" />-->
+
+
+
+
+        </StackLayout>
+
+    </ScrollView>
+
+</ContentPage>

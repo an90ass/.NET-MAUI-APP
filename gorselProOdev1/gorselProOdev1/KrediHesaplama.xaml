@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="gorselProOdev1.KrediHesaplama"
+             Title="Kredi Hesaplama"
+             Background="#113946"
+             >
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label" x:Key="lable">
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontFamily" Value="serif" />
+            </Style>
+            <Style TargetType="Entry" x:Key="Entry">
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontFamily" Value="serif" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ScrollView>
+    <StackLayout Margin="100">
+        
+        <Grid Padding="20" HorizontalOptions="Center" RowSpacing="20" ColumnSpacing="30" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Picker x:Name="krediPicker" Grid.Row="0" Grid.Column="1" TextColor="White" HorizontalOptions="FillAndExpand" FontSize="20" SelectedIndex="-1" SelectedIndexChanged="pickerSelectedIndex">
+                <Picker.ItemsSource >
+                    <x:Array Type="{x:Type x:String}" >
+                        <x:String>İhtiyaç Kredisi</x:String>
+                        <x:String>Konut Kredisi</x:String>
+                        <x:String>Taşıt Kredisi</x:String>
+                        <x:String>Ticari Kredisi</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Label Text="Kredi Türü:"  Style="{StaticResource lable}" FontSize="30" Grid.Row="0" Grid.Column="0" VerticalOptions="CenterAndExpand" HorizontalOptions="End" FontAttributes="Bold" />
+            
+
+
+            <Label Text="Kredi Tutari (TL)" Style="{StaticResource lable}" Grid.Row="1" Grid.Column="0"/>
+            <Entry  x:Name="KrediTutariEntry"  Placeholder="Kredi Tutari" WidthRequest="150" HeightRequest="40" Keyboard="Numeric" Style="{StaticResource Entry}" Grid.Row="1" Grid.Column="1"/>
+
+            <Label Text="Faiz orani (%)" Style="{StaticResource lable}" Grid.Row="2" Grid.Column="0"/>
+            <Entry x:Name="FaizOraniEntry" Placeholder="Faiz orani" WidthRequest="150" HeightRequest="40" Keyboard="Numeric" Style="{StaticResource Entry}" Grid.Row="2" Grid.Column="1"/>
+
+            <Label Text="Vade (Ay)" Style="{StaticResource lable}" Grid.Row="3" Grid.Column="0"/>
+            <Entry x:Name="VadeEntry" Placeholder="Vade" WidthRequest="150" HeightRequest="40" Keyboard="Numeric" Style="{StaticResource Entry}" Grid.Row="3" Grid.Column="1"/>
+
+            <Slider Grid.Row="4" Grid.Column="0" HorizontalOptions="FillAndExpand"  Grid.ColumnSpan="2" WidthRequest="300" HeightRequest="100" ThumbColor="OrangeRed" MaximumTrackColor="Red" MinimumTrackColor="Green" Maximum="200" Minimum="1"  x:Name="_Slider" ValueChanged="_Slider_ValueChanged"  />
+
+            <Button  x:Name="HesaplaButton"  FontSize="30"  FontFamily="serif"  BorderColor="#DAFFFB" BorderWidth="10" Background="#64CCC5" TextColor="#04364A" Text="Hesapla" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Margin="0"  CornerRadius="20" HeightRequest="80" WidthRequest="200"/>
+        </Grid>
+
+        <Frame BackgroundColor="LightGray"  CornerRadius="10" >
+            <StackLayout WidthRequest="1000 " HeightRequest="100" Padding="20">
+                <Label x:Name="AylikTaksitLabel" HorizontalOptions="Center" Text="Aylik taksit :" TextColor="#176B87" Style="{StaticResource lable}" />
+                <Label x:Name="ToplamOdemeLabel" HorizontalOptions="Center"  Text="Toplam ödeme :" TextColor="#176B87" Style="{StaticResource lable}" />
+                <Label x:Name="ToplamFaizLabel"  HorizontalOptions="Center"  Text="Toplam faiz :" TextColor="#176B87"  Style="{StaticResource lable}" />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+        </ScrollView>
+</ContentPage>

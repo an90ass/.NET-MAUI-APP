@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="gorselProOdev1.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:gorselProOdev1"
+    Shell.FlyoutBehavior="Flyout"
+     Shell.TabBarIsVisible="False">
+ 
+    <Shell.FlyoutHeader>
+        <VerticalStackLayout Spacing="5">
+            <Image Source="gorsel.png" WidthRequest="70" />
+            <Label Text="Anas ALmaqtari" HorizontalTextAlignment="Center"/>
+        </VerticalStackLayout>
+    </Shell.FlyoutHeader>
+    <FlyoutItem Title="Ana Sayfa" FlyoutDisplayOptions="AsMultipleItems">
+        <ShellContent
+        Title="Ana Sayfa"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage"
+            Icon="anasayfa.png"
+            
+            />
+        <ShellContent
+        Title="Kredi hesaplama"
+        ContentTemplate="{DataTemplate local:KrediHesaplama}"
+        Route="KrediHesaplama"
+             Icon="kredi.png"/>
+        <ShellContent
+        Title="Vucut kitle indeksi"
+        ContentTemplate="{DataTemplate local:VucutKitlendexi}"
+        Route="VucutKitlendexi"
+             Icon="vucut.png"/>
+        <ShellContent
+        Title="Renk Seçeci"
+        ContentTemplate="{DataTemplate local:RenkSececi}"
+        Route="RenkSececi"
+             Icon="renk.png"/>
+        <ShellContent
+        Title="Yapilacaklar"
+        ContentTemplate="{DataTemplate local:Yapilacaklar}"
+        Route="Yapilacaklar"
+             Icon="note.png"
+            />
+    </FlyoutItem>
+
+</Shell>
