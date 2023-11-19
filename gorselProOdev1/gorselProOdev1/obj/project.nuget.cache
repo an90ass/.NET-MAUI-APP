@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YqiN7Y1ERLpjGyvfTfZRwaaPHkEx9G7QGmN4hgyXjbTT9Rk5Eh8XfO8RTFn0pS4QqeA8QTOf9pF72yETCaos2Q==",
+  "dgSpecHash": "e2Y2Mk0mQSf6iOsuoDN8gi1sVSstM8YzWcG3nbw4BVvuM82C6YzuGE3SgL9DrNMUTi6F1mcKERm56nNHUHTD2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anass\\Desktop\\GitHub\\gorsel_pro_odev1\\gorselProOdev1\\gorselProOdev1\\gorselProOdev1.csproj",
+  "projectFilePath": "C:\\Users\\anass\\Desktop\\GitHub\\GORSEL-PROGRAMLAMA-ODEV1\\gorselProOdev1\\gorselProOdev1\\gorselProOdev1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anass\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\anass\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

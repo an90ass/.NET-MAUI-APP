@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>A70B6104-A08D-41A9-9A16-07BD24BA393C</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>3B8AD35675D4F321E08FBCEF69B1AC4AB5E91378DCF4B453052791CBB7057A56</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>A70B6104-A08D-41A9-9A16-07BD24BA393C_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>A70B6104-A08D-41A9-9A16-07BD24BA393C_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,28 +27,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-15T12:49:54.318</Modified>
+      <Modified>2023-11-19T17:15:38.070</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-15T12:49:53.734</Modified>
+      <Modified>2023-11-19T17:15:37.142</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\gorselProOdev1.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\gorselProOdev1.runtimeconfig.json">
       <PackagePath>gorselProOdev1.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-08T16:29:03.386</Modified>
+      <Modified>2023-11-16T22:31:52.545</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\gorselProOdev1.dll">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\gorselProOdev1.dll">
       <PackagePath>gorselProOdev1.dll</PackagePath>
-      <Modified>2023-11-15T12:49:52.033</Modified>
+      <Modified>2023-11-19T17:15:33.614</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>gorselProOdev1.exe</PackagePath>
-      <Modified>2023-11-15T12:49:52.044</Modified>
+      <Modified>2023-11-19T17:15:33.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\anass\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.8\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1062,9 +1062,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-07-19T16:53:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\gorselProOdev1.deps.json">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\gorselProOdev1.deps.json">
       <PackagePath>gorselProOdev1.deps.json</PackagePath>
-      <Modified>2023-11-15T12:49:54.112</Modified>
+      <Modified>2023-11-19T17:15:37.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.486\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1078,223 +1078,227 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2022-07-24T23:14:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-11-08T16:18:44.433</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-11-08T16:28:57.746</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-11-08T16:28:57.777</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-11-08T16:28:57.808</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-11-08T16:28:57.855</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-11-08T16:28:58.043</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-11-08T16:18:44.418</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-11-08T16:18:44.418</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\anasayfa.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\anasayfa.scale-100.png">
       <PackagePath>anasayfa.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:37:39.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\anasayfa2.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\anasayfa2.scale-100.png">
       <PackagePath>anasayfa2.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:34:36.493</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-12T20:12:23.733</Modified>
+      <Modified>2023-11-19T17:15:32.031</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-12T20:12:24.029</Modified>
+      <Modified>2023-11-19T17:15:32.341</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-12T20:12:24.045</Modified>
+      <Modified>2023-11-19T17:15:32.360</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-12T20:12:24.061</Modified>
+      <Modified>2023-11-19T17:15:32.376</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-12T20:12:24.092</Modified>
+      <Modified>2023-11-19T17:15:32.407</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-12T20:12:24.201</Modified>
+      <Modified>2023-11-19T17:15:32.548</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.748</Modified>
+      <Modified>2023-11-19T17:15:32.048</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.748</Modified>
+      <Modified>2023-11-19T17:15:32.053</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.748</Modified>
+      <Modified>2023-11-19T17:15:32.058</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.748</Modified>
+      <Modified>2023-11-19T17:15:32.063</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.764</Modified>
+      <Modified>2023-11-19T17:15:32.070</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.826</Modified>
+      <Modified>2023-11-19T17:15:32.141</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.826</Modified>
+      <Modified>2023-11-19T17:15:32.148</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.842</Modified>
+      <Modified>2023-11-19T17:15:32.162</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.858</Modified>
+      <Modified>2023-11-19T17:15:32.174</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.873</Modified>
+      <Modified>2023-11-19T17:15:32.203</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.795</Modified>
+      <Modified>2023-11-19T17:15:32.102</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.795</Modified>
+      <Modified>2023-11-19T17:15:32.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.795</Modified>
+      <Modified>2023-11-19T17:15:32.112</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.811</Modified>
+      <Modified>2023-11-19T17:15:32.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.826</Modified>
+      <Modified>2023-11-19T17:15:32.133</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.764</Modified>
+      <Modified>2023-11-19T17:15:32.074</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.764</Modified>
+      <Modified>2023-11-19T17:15:32.079</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.779</Modified>
+      <Modified>2023-11-19T17:15:32.084</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.779</Modified>
+      <Modified>2023-11-19T17:15:32.089</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.795</Modified>
+      <Modified>2023-11-19T17:15:32.097</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.889</Modified>
+      <Modified>2023-11-19T17:15:32.212</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.889</Modified>
+      <Modified>2023-11-19T17:15:32.224</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.904</Modified>
+      <Modified>2023-11-19T17:15:32.240</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.936</Modified>
+      <Modified>2023-11-19T17:15:32.269</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.998</Modified>
+      <Modified>2023-11-19T17:15:32.326</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\copy.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\copy.scale-100.png">
       <PackagePath>copy.scale-100.png</PackagePath>
       <Modified>2023-11-09T00:43:45.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\copy2.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\copy2.scale-100.png">
       <PackagePath>copy2.scale-100.png</PackagePath>
       <Modified>2023-11-09T00:45:19.385</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.514</Modified>
+      <Modified>2023-11-19T17:15:31.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.529</Modified>
+      <Modified>2023-11-19T17:15:31.813</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.545</Modified>
+      <Modified>2023-11-19T17:15:31.837</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.576</Modified>
+      <Modified>2023-11-19T17:15:31.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-12T20:12:23.639</Modified>
+      <Modified>2023-11-19T17:15:31.943</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\gorsel.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\gorsel.scale-100.png">
       <PackagePath>gorsel.scale-100.png</PackagePath>
       <Modified>2023-11-12T14:02:47.879</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\koyp2.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\koyp2.scale-100.png">
       <PackagePath>koyp2.scale-100.png</PackagePath>
       <Modified>2023-11-12T14:00:37.733</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\kredi.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\kredi.scale-100.png">
       <PackagePath>kredi.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:39:03.309</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\note.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\note.scale-100.png">
       <PackagePath>note.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:44:50.057</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\renk.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\profile.scale-100.png">
+      <PackagePath>profile.scale-100.png</PackagePath>
+      <Modified>2023-06-30T13:06:22.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\renk.scale-100.png">
       <PackagePath>renk.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:44:06.399</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\update.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\update.scale-100.png">
       <PackagePath>update.scale-100.png</PackagePath>
       <Modified>2023-11-12T20:09:26.429</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\vucut.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\vucut.scale-100.png">
       <PackagePath>vucut.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:42:37.113</Modified>
     </AppxPackagedFile>

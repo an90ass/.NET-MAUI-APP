@@ -9,7 +9,7 @@
  
     <Shell.FlyoutHeader>
         <VerticalStackLayout Spacing="5">
-            <Image Source="gorsel.png" WidthRequest="70" />
+            <Image Source="profile.png" WidthRequest="70" />
             <Label Text="Anas ALmaqtari" HorizontalTextAlignment="Center"/>
         </VerticalStackLayout>
     </Shell.FlyoutHeader>

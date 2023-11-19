@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anass\\Desktop\\GitHub\\gorsel_pro_odev1\\gorselProOdev1\\gorselProOdev1\\gorselProOdev1.csproj": {}
+    "C:\\Users\\anass\\Desktop\\GitHub\\GORSEL-PROGRAMLAMA-ODEV1\\gorselProOdev1\\gorselProOdev1\\gorselProOdev1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anass\\Desktop\\GitHub\\gorsel_pro_odev1\\gorselProOdev1\\gorselProOdev1\\gorselProOdev1.csproj": {
+    "C:\\Users\\anass\\Desktop\\GitHub\\GORSEL-PROGRAMLAMA-ODEV1\\gorselProOdev1\\gorselProOdev1\\gorselProOdev1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anass\\Desktop\\GitHub\\gorsel_pro_odev1\\gorselProOdev1\\gorselProOdev1\\gorselProOdev1.csproj",
+        "projectUniqueName": "C:\\Users\\anass\\Desktop\\GitHub\\GORSEL-PROGRAMLAMA-ODEV1\\gorselProOdev1\\gorselProOdev1\\gorselProOdev1.csproj",
         "projectName": "gorselProOdev1",
-        "projectPath": "C:\\Users\\anass\\Desktop\\GitHub\\gorsel_pro_odev1\\gorselProOdev1\\gorselProOdev1\\gorselProOdev1.csproj",
+        "projectPath": "C:\\Users\\anass\\Desktop\\GitHub\\GORSEL-PROGRAMLAMA-ODEV1\\gorselProOdev1\\gorselProOdev1\\gorselProOdev1.csproj",
         "packagesPath": "C:\\Users\\anass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anass\\Desktop\\GitHub\\gorsel_pro_odev1\\gorselProOdev1\\gorselProOdev1\\obj\\",
+        "outputPath": "C:\\Users\\anass\\Desktop\\GitHub\\GORSEL-PROGRAMLAMA-ODEV1\\gorselProOdev1\\gorselProOdev1\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

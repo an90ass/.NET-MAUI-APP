@@ -7,57 +7,57 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gorselProOdev1
-build_property.ProjectDir = C:\Users\anass\Desktop\GitHub\gorsel_pro_odev1\gorselProOdev1\gorselProOdev1\
+build_property.ProjectDir = C:\Users\anass\Desktop\GitHub\GORSEL-PROGRAMLAMA-ODEV1\gorselProOdev1\gorselProOdev1\
 
-[C:/Users/anass/Desktop/GitHub/gorsel_pro_odev1/gorselProOdev1/gorselProOdev1/App.xaml]
+[C:/Users/anass/Desktop/GitHub/GORSEL-PROGRAMLAMA-ODEV1/gorselProOdev1/gorselProOdev1/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = gorselProOdev1.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/anass/Desktop/GitHub/gorsel_pro_odev1/gorselProOdev1/gorselProOdev1/AppShell.xaml]
+[C:/Users/anass/Desktop/GitHub/GORSEL-PROGRAMLAMA-ODEV1/gorselProOdev1/gorselProOdev1/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = gorselProOdev1.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/anass/Desktop/GitHub/gorsel_pro_odev1/gorselProOdev1/gorselProOdev1/KrediHesaplama.xaml]
+[C:/Users/anass/Desktop/GitHub/GORSEL-PROGRAMLAMA-ODEV1/gorselProOdev1/gorselProOdev1/KrediHesaplama.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = gorselProOdev1.KrediHesaplama.xaml
 build_metadata.AdditionalFiles.TargetPath = KrediHesaplama.xaml
 build_metadata.AdditionalFiles.RelativePath = KrediHesaplama.xaml
 
-[C:/Users/anass/Desktop/GitHub/gorsel_pro_odev1/gorselProOdev1/gorselProOdev1/MainPage.xaml]
+[C:/Users/anass/Desktop/GitHub/GORSEL-PROGRAMLAMA-ODEV1/gorselProOdev1/gorselProOdev1/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = gorselProOdev1.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/anass/Desktop/GitHub/gorsel_pro_odev1/gorselProOdev1/gorselProOdev1/RenkSececi.xaml]
+[C:/Users/anass/Desktop/GitHub/GORSEL-PROGRAMLAMA-ODEV1/gorselProOdev1/gorselProOdev1/RenkSececi.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = gorselProOdev1.RenkSececi.xaml
 build_metadata.AdditionalFiles.TargetPath = RenkSececi.xaml
 build_metadata.AdditionalFiles.RelativePath = RenkSececi.xaml
 
-[C:/Users/anass/Desktop/GitHub/gorsel_pro_odev1/gorselProOdev1/gorselProOdev1/Resources/Styles/Colors.xaml]
+[C:/Users/anass/Desktop/GitHub/GORSEL-PROGRAMLAMA-ODEV1/gorselProOdev1/gorselProOdev1/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = gorselProOdev1.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/anass/Desktop/GitHub/gorsel_pro_odev1/gorselProOdev1/gorselProOdev1/Resources/Styles/Styles.xaml]
+[C:/Users/anass/Desktop/GitHub/GORSEL-PROGRAMLAMA-ODEV1/gorselProOdev1/gorselProOdev1/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = gorselProOdev1.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/anass/Desktop/GitHub/gorsel_pro_odev1/gorselProOdev1/gorselProOdev1/VucutKitlendexi.xaml]
+[C:/Users/anass/Desktop/GitHub/GORSEL-PROGRAMLAMA-ODEV1/gorselProOdev1/gorselProOdev1/VucutKitlendexi.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = gorselProOdev1.VucutKitlendexi.xaml
 build_metadata.AdditionalFiles.TargetPath = VucutKitlendexi.xaml
 build_metadata.AdditionalFiles.RelativePath = VucutKitlendexi.xaml
 
-[C:/Users/anass/Desktop/GitHub/gorsel_pro_odev1/gorselProOdev1/gorselProOdev1/Yapilacaklar.xaml]
+[C:/Users/anass/Desktop/GitHub/GORSEL-PROGRAMLAMA-ODEV1/gorselProOdev1/gorselProOdev1/Yapilacaklar.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = gorselProOdev1.Yapilacaklar.xaml
 build_metadata.AdditionalFiles.TargetPath = Yapilacaklar.xaml

@@ -22,13 +22,13 @@
             VerticalOptions="Center">
 
             <Image
-                Source="gorsel.png"
+                Source="profile.png"
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
             <Label Text="Anas AL-Maqtari" />
             <Label Text="Bartin Universitesi Bilgisayar Muhendisligi"/>
-            <Label Text="Ödev 1"/>
+            <Label Text="Ödev 1" TextColor="#64CCC5"/>
 
 
         </VerticalStackLayout>

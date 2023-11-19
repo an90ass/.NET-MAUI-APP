@@ -67,6 +67,7 @@
 	  <None Remove="Resources\Images\koyp2.png" />
 	  <None Remove="Resources\Images\kredi.png" />
 	  <None Remove="Resources\Images\note.png" />
+	  <None Remove="Resources\Images\profile.png" />
 	  <None Remove="Resources\Images\renk.png" />
 	  <None Remove="Resources\Images\update.png" />
 	  <None Remove="Resources\Images\vucut.png" />
